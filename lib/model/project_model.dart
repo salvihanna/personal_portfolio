@@ -23,6 +23,6 @@ List<Project> projectList = [
       'My Personal Portfolio',
       'A portfolio using Flutter, showcasing mobile apps and user interfaces built to demonstrate my skills in innovative and user-friendly design.',
       'assets/images/portfolio.png',
-      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+      'https://github.com/salvihanna/personal_portfolio'),
   
 ];
