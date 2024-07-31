@@ -35,7 +35,7 @@ class ConnectButton extends StatelessWidget {
             children: [
               const Icon(FontAwesomeIcons.envelope,color: Colors.greenAccent,size: 15,),
               const SizedBox(width : defaultPadding/4),
-              Text('Mail me',style: Theme.of(context).textTheme.labelSmall!.copyWith(
+              Text('Mail',style: Theme.of(context).textTheme.labelSmall!.copyWith(
                   color: Colors.white,
                   letterSpacing: 1.2,
                   fontWeight: FontWeight.bold
