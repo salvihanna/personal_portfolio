@@ -19,13 +19,13 @@ List<Project> projectList = [
   Project(
     'SafeSync',
     'A Flutter-based mobile application designed to enhance road safety by detecting and alerting authorities to accidents and rash driving incidents in real-time.',
-    'https://i.postimg.cc/8P4J2Rpq/messlab.png',
+    'https://i.postimg.cc/zB7HCxC7/safesync.png',
     'https://github.com/salvihanna/safesync',
   ),
   Project(
       'My Personal Portfolio',
       'A portfolio using Flutter, showcasing mobile apps and user interfaces built to demonstrate my skills in innovative and user-friendly design.',
-      'https://i.postimg.cc/8P4J2Rpq/messlab.png',
+      'https://i.postimg.cc/PJf3yVB5/portfolio.png',
       'https://github.com/salvihanna/personal_portfolio'),
   
 ];
