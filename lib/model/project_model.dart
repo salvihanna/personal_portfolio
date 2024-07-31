@@ -11,6 +11,7 @@ List<Project> projectList = [
     'MessLab',
     'A Flutter-based mobile application streamlining mess management in staff hostels, facilitating efficient food management, billing, and feedback systems for a hassle-free dining experience.',
     'assets/images/messlab.png',
+    
     'https://github.com/j3rinpaul/Messlab',
   ),
   Project(
